@@ -93,16 +93,6 @@ xcodebuild -project Claudy.xcodeproj -scheme Claudy -configuration Debug build
 
 Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=markgravity%2FCludy&type=date&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=markgravity/Claudy&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=markgravity/Claudy&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=markgravity/Claudy&type=date&logscale&legend=top-left" />
- </picture>
-</a>
-
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE).
