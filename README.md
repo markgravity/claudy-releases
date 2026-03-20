@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="200" height="200" alt="Claudy banner" />
+  <img src="https://raw.githubusercontent.com/markgravity/Claudy/main/assets/banner.png" width="200" height="200" alt="Claudy banner" />
 
   <h1>Claudy</h1>
   <p><strong>A native macOS app that gives Claude Code a proper home — multi-session, multi-account, all in one window.</strong></p>
