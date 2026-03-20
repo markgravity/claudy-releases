@@ -14,7 +14,6 @@
   <p>
     <a href="#features">Features</a> •
     <a href="#install">Install</a> •
-    <a href="#build-from-source">Build from source</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
   </p>
@@ -53,31 +52,6 @@
 3. Extract and move `Claudy.app` to `/Applications`
 4. Launch Claudy
 5. Go to **Settings → General** and confirm the path to your `claude` binary
-
-### Build from source
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/markgravity/Claudy.git
-cd Claudy
-```
-
-2. Open the project:
-
-```bash
-open Claudy.xcodeproj
-```
-
-3. Build and run with `Cmd+R`
-
-You can also build from the terminal:
-
-```bash
-xcodebuild -project Claudy.xcodeproj -scheme Claudy -configuration Debug build
-```
-
-> **Note:** App Sandbox is disabled — this is required so Claudy can spawn the `claude` CLI subprocess.
 
 ## Tech Stack
 
